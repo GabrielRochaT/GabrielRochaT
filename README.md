@@ -1,14 +1,14 @@
 
 <div>
 <h1 align="center">Oi, Sou Gabriel</h1> 
-<h3 align="center">📚 Estudante de programação.</h3>
-   <img align="right" alt="BMO-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
- 
+<h3 align="center">📚 Desenvolvedor Front-End.</h3>
+
 </div>
 
  
-##
-
+## 
+ 
+<img align="center" alt="BMO-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
 
 
 <h3 align="left">Linguagens e Programas:</h3>
