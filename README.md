@@ -8,12 +8,14 @@
  
 ## 
  
-<img align="center" alt="BMO-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
+<div align = "center" ><img align="center" alt="BMO-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
+ </div>
 
 
-<h3 align="left">Linguagens e Programas:</h3>
-</div>
-<div style="display: inline_block"><br>
+
+
+<div align = "center" style="display: inline_block"><br>
+ <h3>Linguagens e Programas:</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,9 +25,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 </div>
 
-<h3 align="left">Atualmente Aprendendo:</h3>
+
 <div>
-<div style="display: inline_block"><br>
+<div align = "center" style="display: inline_block"><br>
+ <h3>Atualmente Aprendendo:</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
@@ -45,3 +48,5 @@
 ![Snake animation](https://github.com/GabrielRochaT/GabrielRochaT/blob/output/github-contribution-grid-snake.svg)
 
  </div>
+ <p align="center"><b>Total de visitas no Perfil:</b>
+<img align="center" src="https://profile-counter.glitch.me/GabrielRochaT/count.svg"></p>
