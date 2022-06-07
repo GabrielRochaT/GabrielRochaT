@@ -1,7 +1,8 @@
 
 <div>
 <h1 align="center">Oi, Sou Gabriel</h1> 
-<h3 align="center">📚 Desenvolvedor Front-End.</h3>
+<h3 align="center">💻Desenvolvedor Front-End.</h3>
+<p align="center">📚Sou Curioso e motivado e estou sempre em busca de aprender algo novo.</p>
 
 </div>
 
