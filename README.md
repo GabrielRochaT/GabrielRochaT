@@ -1,13 +1,14 @@
 
+
+
+
+
 <div>
-<h1 align="center">Oi, Sou Gabriel</h1> 
-<h3 align="center">💻Desenvolvedor Front-End.</h3>
-<p align="center">📚Sou Curioso e motivado e estou sempre em busca de aprender algo novo.</p>
+ <div>
 
-</div>
-
- 
-## 
+ ![Logo_Of_Horizontal](https://user-images.githubusercontent.com/95376359/174144979-30f6ee31-ecd1-4808-a6ea-721e0b9d64db.png)
+  
+##
  
 <div align = "center" ><img align="center" alt="BMO-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
  </div>
