@@ -4,7 +4,6 @@
 
 
 <div>
- <div>
 
  ![Logo_Of_Horizontal](https://user-images.githubusercontent.com/95376359/174144979-30f6ee31-ecd1-4808-a6ea-721e0b9d64db.png)
   
@@ -17,7 +16,7 @@
 
 
 <div align = "center" style="display: inline_block"><br>
- <h3>Linguagens: </h3>
+<h3>Linguagens: </h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,20 +30,17 @@
 
 <div>
 <div align = "center" style="display: inline_block"><br>
-
- 
 <h3>Programas Que Utilizo:</h3> 
- 
  <img align="center" alt="Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Ec" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
  <img align="center" alt="NB" height="30" width="30" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
- </div>
+</div>
  
  
  ##
  
  
- <div align="center">
+<div align="center">
  
   <a href="https://instagram.com/jao_gabrel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaogabrie487@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -52,6 +48,7 @@
 
 ![Snake animation](https://github.com/GabrielRochaT/GabrielRochaT/blob/output/github-contribution-grid-snake.svg)
 
- </div>
+</div>
+ 
  <p align="center"><b>Total de visitas no Perfil:</b>
-<img align="center" src="https://profile-counter.glitch.me/GabrielRochaT/count.svg"></p>
+ <img align="center" src="https://profile-counter.glitch.me/GabrielRochaT/count.svg"></p>
