@@ -16,7 +16,7 @@
 
 
 <div align = "center" style="display: inline_block"><br>
-<h3>Linguagens: </h3>
+<h3>Habilidades </h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,7 +30,7 @@
 
 <div>
 <div align = "center" style="display: inline_block"><br>
-<h3>Programas Que Utilizo:</h3> 
+<h3>IDEs</h3> 
  <img align="center" alt="Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Ec" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
  <img align="center" alt="NB" height="30" width="30" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
