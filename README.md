@@ -23,17 +23,26 @@
   <img align="center" alt="Ard" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="CakePHP4" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original-wordmark.svg" />
+  <img align="center" alt="PgSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="PgSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          
+          
 </div>
 
 
 <div>
 <div align = "center" style="display: inline_block"><br>
 <h3>IDEs</h3> 
- <img align="center" alt="Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- <img align="center" alt="Ec" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
- <img align="center" alt="NB" height="30" width="30" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
+ <img align="center" alt="Vs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Ec" height="40" width="40 src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
+ <img align="center" alt="NB" height="40" width="40" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
+ <img align="center" alt="NB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+          
+ 
+          
 </div>
  
  
