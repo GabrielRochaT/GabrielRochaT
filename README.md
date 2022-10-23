@@ -4,8 +4,11 @@
 
 
 <div>
+<div align = "center">
+<img align="center" alt="LogoOF_Horizontal" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95376359/174144979-30f6ee31-ecd1-4808-a6ea-721e0b9d64db.png">
+</div>
 
- ![Logo_Of_Horizontal](https://user-images.githubusercontent.com/95376359/174144979-30f6ee31-ecd1-4808-a6ea-721e0b9d64db.png)
+
   
 ##
  
