@@ -31,7 +31,6 @@
   <img align="center" alt="CakePHP4" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original-wordmark.svg" />
   <img align="center" alt="PgSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
           
 </div>
 
