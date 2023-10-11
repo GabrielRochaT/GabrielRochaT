@@ -36,7 +36,6 @@
 <div align = "center" style="display: inline_block"><br>
 <h3>IDEs</h3> 
  <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- <img align="center" alt="NetBeans" height="40" width="40" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
  <img align="center" alt="PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
           
  
